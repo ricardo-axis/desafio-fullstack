@@ -138,7 +138,7 @@ A API deve fornecer serviços REST para que o Front-End consiga:
 ### 📌 Instruções & Sugestões
 
 Espera-se que:
-- Seja utilizado [linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) e [.NET6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (ou [superior](https://dotnet.microsoft.com/en-us/download/dotnet));
+- Seja utilizado [linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) e [.NET8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (ou [superior](https://dotnet.microsoft.com/en-us/download/dotnet));
 - Boas práticas de programação orientação a objetos e conceitos de SOLID;
   - Lembre-se de alguns conceitos de design e/ou arquitetura: DDD, CQS, CQRS, Clean, Onion, Hexagonal, etc. de como organiza seu do código fonte.
   Entretando, leve em consideração ainda mais o que acredita melhor para este projeto como um todo perante os desafios, experiências e oportunidades que já foram compartilhados com você;
@@ -166,7 +166,7 @@ Espera-se que:
   - A lista de frameworks e/ou tecnologias usadas;
   - Instruções de como instalar e executar cada um dos projetos (front-end e back-end);
 - Não esqueça do arquivo no repositório [.gitignore](https://www.toptal.com/developers/gitignore) para não subir "sujeita".
-- O **prazo limite para entrega deste desafio termina em 30/10/2023 às 23h59min**.
+- O **prazo limite para entrega deste desafio termina em 27/03/2025 às 23h59min**.
   - ***Obs.**: as entregas realizadas após este limite não serão validadas. Apenas os commits feitos até o prazo estabelecido.*
 
 
