@@ -173,4 +173,4 @@ Espera-se que:
 
 ### :question: Dúvidas?
 
-- Ficou com alguma dúvida sobre o desafio? Entre em contato abrindo um [Issue](https://github.com/alexandre-axis/desafio-d/issues) que nós te ajudaremos com o processo.
+- Ficou com alguma dúvida sobre o desafio? Entre em contato abrindo um [Issue](https://github.com/ricardo-axis/desafio-fullstack/issues) que nós te ajudaremos com o processo.
