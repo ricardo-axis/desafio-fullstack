@@ -140,16 +140,15 @@ A API deve fornecer serviços REST para que o Front-End consiga:
 Espera-se que:
 - Seja utilizado [linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) e [.NET8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (ou [superior](https://dotnet.microsoft.com/en-us/download/dotnet));
 - Boas práticas de programação orientação a objetos e conceitos de SOLID;
-  - Lembre-se de alguns conceitos de design e/ou arquitetura: DDD, CQS, CQRS, Clean, Onion, Hexagonal, etc. de como organiza seu do código fonte.
-  Entretando, leve em consideração ainda mais o que acredita melhor para este projeto como um todo perante os desafios, experiências e oportunidades que já foram compartilhados com você;
 - Seja utilizado um banco de dados como [PostgreSQL](https://www.postgresql.org/download/), ou [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads), ou [Oracle](https://www.oracle.com/br/database/technologies/xe-downloads.html), etc. para armazenamento dos dados;
   - Recomendável usar drivers oficiais para integração com o DB;
-  - Além da criação do Banco de Dados e Tabelas usando o conceito de Code First (se souber), crie também os scripts SQL das tabelas para armazenar os dados da Cooperativa, Conta Corrente e Contatos Favoritos, bem como os scripts para alimentar o seu banco de dados;
+  - Além da criação do Banco de Dados e Tabelas usando o conceito de Code First (se souber), crie também os scripts SQL das tabelas para armazenar os dados da Cooperativa, Conta Corrente e Contatos Favoritos;
 - Para o Front-End as telas devem ser construídas preferencialmente com o framework [ReactJS](https://react.dev/).
   
 
 ### 💡 Diferenciais (itens opcionais)
 
+- Utilizar algum conceito de design e/ou arquitetura: DDD, CQS, CQRS, Clean, Onion, Hexagonal, etc. de como organiza seu do código fonte.
 - Escrever `Unit Tests`, `Integration Tests` ou `End-to-End` para os serviços de `back-end` e/ou `front-end`;
 - Escrever a `Documentação da API` utilizando o conceito de `Open API 3.0`;
   - Podem ser utilizadas opções como Swagger, Redoc, Elements, RapidDoc, WidderShin, Lucybot, etc.
@@ -157,6 +156,7 @@ Espera-se que:
 - Configurar `Dockerfile` e/ou `Docker Compose` no projeto para facilitar o `Deploy` da equipe de `DevOps`;
   - Deploy em algum servidor, com ou sem automatização do CI;
 - Configurar um sistema de alerta se houver algum falha na aplicação;
+- Criar pelo menos um componente para reutilização;
 
 
 ### ✔️ Documentação, Organização e Entrega
